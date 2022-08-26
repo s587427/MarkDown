@@ -6,6 +6,7 @@
 * rem：相對單位，每個元素透過「倍數」乘以根元素的 px 值。
 * %：相對單位，每個子元素透過「百分比」乘以父元素的 px 值。
 
+***
 
 ## variables
 
@@ -34,8 +35,7 @@
 document.documentElement.style.setProperty('--mybgColor', '#333')
 ```
 
-
-
+***
 
 ## flex
 
@@ -47,6 +47,7 @@ document.documentElement.style.setProperty('--mybgColor', '#333')
 2. flex-basis
 3. flex-shrink
 
+***
 ## 列印
 
 ### 1.列印樣式設定 @meida print
